@@ -2,6 +2,8 @@
 
 I've been in tech for a long time and have interviewed quite a bit from small to very large companies. All of the questions mentioned on this page are ones I have been asked for IT-related positions. Each time a question was asked, I'd write it down. I thought I would share these with all of you for those who are wanting to study for their next interview. Enjoy!
 
+I would like to also collaborate with the public to get other interview questions that may be asked during a technical interview. Would you like to contribute? Please send me a pull request and I'd be happy to add it! I will also be providing the answers as well, so please feel free to add your answer to the answer directory.
+
 1. User says their internet is slow and that it takes ages to get to websites. What steps would you do to troubleshoot?
 2. Tell me five ways to find the current date and time on a Linux system.
 3. How would you delete a file called -f on a Linux system?
