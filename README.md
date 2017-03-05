@@ -12,7 +12,7 @@ I would like to also collaborate with the public to get other interview question
 6. How would you find a device on a network?
 7. How does traceroute work? How is it different from ping?
 8. What is ping?
-9. Draw an entire network
+9. Draw an entire network (very broad, but will allow you to show everything you know about one)
 10. What is DHCP? How does it work? What is assigned to the computer that requested an address?
 11. What is ARP?
 12. How does a switch work?
