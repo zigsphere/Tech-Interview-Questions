@@ -59,3 +59,5 @@ I would like to also collaborate with the public to get other interview question
 53. How would you test if a port is open on a remote server?
 54. You opened a port on a server, but from the outside, you cannot connect to that port. What might the problem be?
 55. A fellow technician says that a Windows machine they're working on has an IP address of 169.254.101.6, and asks you to help him troubleshoot. What do you do?
+56. What are IPTables? What are the different things you can do with them?
+57. On a Linux machine, how can you spin up a webserver? What is a vhost? Where do the configuration files live?
