@@ -18,7 +18,7 @@ I would like to also collaborate with the public to get other interview question
 12. How does a switch work?
 13. What are some ways you can kill a program that is not responding? (think of the command line as well)
 14. On a Linux machine, how would you find the drive you just plugged in? How would you mount it?
-15. With the kill command what does -9 do? How is it different than kill -11?
+15. With the kill command what does -9 do (kill -9)? How is it different than kill -11?
 16. What is DNS?
 17. On a mac, what are some ways you can transfer data from one computer to another?
 18. What is the PRAM and SMC reset do? What do each reset?
