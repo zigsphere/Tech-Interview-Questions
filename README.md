@@ -77,7 +77,8 @@ I would like to also collaborate with the public to get other interview question
 71. What is Puppet, Ansible, Chef, Saltstack and what are they used for?
 72. What is the difference between git pull and git fetch?
 73. What does git rebase do?
-74. Write a Puppet class to include the apache module and att the attrubutes for hostname and www_root. Set www_root to /mnt/mount.
+74. Write a Puppet class to include the apache module and add the attrubutes for hostname and www_root. Set www_root to /mnt/mount.
+75. The node that has /mnt/root begins having issues. The /mnt/root is an NFS mount and a process is using the mount. What cammns can you use to determine what is using the mount?
 75. Let's say you have 5 web hosts behind HAproxy. One of the servers started experiencing issues. What would you do?
 76. From the last question, how would you troubleshoot the node having issues?
 77. You have a border router and behind the router is an HAproxy enpoint serving 5 web nodes behind it. All of a sudden, you begin getting 10Gbps traffic to the HAproxy node and becomes unresponsive. What do you do?
