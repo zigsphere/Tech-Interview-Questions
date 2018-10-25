@@ -61,3 +61,24 @@ I would like to also collaborate with the public to get other interview question
 55. A fellow technician says that a Windows machine they're working on has an IP address of 169.254.101.6, and asks you to help him troubleshoot. What do you do?
 56. What are IPTables? What are the different things you can do with them?
 57. On a Linux machine, how can you spin up a webserver? What is a vhost? Where do the configuration files live?
+58. Name a few HTTP requests.
+59. List some ports and define what they are used for.
+60. What command would you use to list the number of threads for a running process?
+61. How would you find the system load average WITHOUT causing more load?
+62. What are some of the default Linux system variables?
+63. What is garbage collection?
+64. Using bash, how would you output a specific column in a file?
+65. What's the difference between bootp and DHCP?
+66. What is Immutable Infrastructure? How does it differ from Mutable Infrastructure and what are some advantages of having an Immutable Infrastructure?
+67. Name a few data structures.
+68. What tool would you use to sniff DNS traffic?
+69. What tool would you use to view disk IO?
+70. What is a CDN?
+71. What is Puppet, Ansible, Chef, Saltstack and what are they used for?
+72. What is the difference between git pull and git fetch?
+73. What does git rebase do?
+74. Write a Puppet class to include the apache module and att the attrubutes for hostname and www_root. Set www_root to /mnt/mount.
+75. Let's say you have 5 web hosts behind HAproxy. One of the servers started experiencing issues. What would you do?
+76. From the last question, how would you troubleshoot the node having issues?
+77. You have a border router and behind the router is an HAproxy enpoint serving 5 web nodes behind it. All of a sudden, you begin getting 10Gbps traffic to the HAproxy node and becomes unresponsive. What do you do?
+78. What is a Puppet module? If you needed to make changes to a module, what can you do?
