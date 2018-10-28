@@ -83,3 +83,16 @@ I would like to also collaborate with the public to get other interview question
 77. From the last question, how would you troubleshoot the node having issues?
 78. You have a border router and behind the router is an HAproxy enpoint serving 5 web nodes behind it. All of a sudden, you begin getting 10Gbps traffic to the HAproxy node and becomes unresponsive. What do you do?
 79. What is a Puppet module? If you needed to make changes to a module, what can you do?
+80. What are ports and port numbers to DNS, FTP, and DHCP?
+81. What Linux command you would use to limit administration access?
+82. What is ransomeware?
+83. Explain WannaCry
+84. How do you find out latest exploits and news in the industry?
+85. Which 3 part handshake protocol is used to establish a connection?
+86. Name the IP address ranges for the different classes and what their subnets masks were
+87. Name the private IP addresses, their subnet masks, and their CIDR
+88. What is CIDR?
+89. Which security method helps block and prevent ports from being accessed?
+90. What prevents a network from intrusion?
+91. What is an injection attack?
+92. How do you read Wireshark and a IDS/IPS scan paper for intrusion scans and how/why the intrusion occured
