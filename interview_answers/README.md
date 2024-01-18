@@ -5,3 +5,7 @@
 2Q. Tell me five ways to find the current date and time on a Linux system.
 
 2A. From the command terminal: date, timedatectl, hwclock, cat /proc/driver/rtc, ntpq -p. 
+
+3Q. How would you delete a file called -f on a Linux system? 
+
+3A. rm -- -f
