@@ -130,7 +130,7 @@ An MX record is a DNS record that specifies the mail server responsible for acce
 
 29. Describe the TCP Handshake.
 
-1. the sender sends a SYN message. 2. The receiver responds with SYN-ACK. 3. The sender replies with ACK, establishing a connection.
+The sender sends a SYN message. The receiver responds with SYN-ACK. The sender replies with ACK, establishing a connection.
 
 30. What is the difference between TCP and UDP?
 
